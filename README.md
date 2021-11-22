@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Uladzislau Lahoikin  @lagoikin33
 - 👀 I’m interested in computer sience & IT
 - 🌱 I’m currently learning programming languages, operating systems and Artificial Intelligence in Warsaw University of Technology
-- 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me lagoikin@gmail.com
 
 <!---
